@@ -5,5 +5,6 @@ public class testvi{
 		//System.out.println(teileUndHerrsche(b,80,0,b.length-1));
 		System.out.println(4);
 		//System.out.println(pos3(b,9,0,b.length-1));
+		System.out.println(5);
 	}
 }
